@@ -87,7 +87,7 @@ const ProjectPro = () => {
           </div>
         </div>
 
-        {/* Mobile Menu */}
+        {/* Mobile Menu */} 
         {isMenuOpen && (
           <div className="md:hidden min-h-screen bg-gray-900/95 backdrop-blur-lg">
             <div className="px-2 pt-2 pb-3 space-y-1">
